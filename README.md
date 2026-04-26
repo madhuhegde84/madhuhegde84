@@ -1,19 +1,138 @@
-# 💫 About Me:
-I'm a Technical Staff Engineer with 18+ years specializing in Embedded firmware and driver development across wireless connectivity such as WLAN and imaging platforms.​ I am exploring edge AI platforms writing edge AI applications and using AI in various areas of embedded software development
+<h1 align="center">Hi 👋, I'm Madhu Hegde</h1>
+<h3 align="center">Technical Staff Engineer | Embedded Firmware | WLAN Drivers | Linux | Security</h3>
 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhuhegde84&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhuhegde84&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuhegde84&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  Bangalore, India • 18+ years in embedded systems, firmware, and device drivers
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madhuhegde84&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a Technical Staff Engineer with over 18 years of experience in embedded firmware and device driver development, delivering production-grade solutions across WLAN and imaging platforms.
+
+My recent work has focused on end-to-end IEEE WLAN architecture, including Linux host drivers, regulatory domain management, cfg80211 integration, WPA3/PMF security features, MAC/RF firmware development, calibration flows, Tx gain control, and low-power subsystem design across multiple silicon revisions.
+
+I have also worked on camera and imaging platforms, including MIPI CSI-2 camera drivers, ISP module development, Bayer RAW capture, and 3A algorithms such as auto exposure, white balance, de-mosaic, filtering, and noise reduction.
+
+---
+
+## Core Expertise
+
+- Embedded firmware development
+- Linux device drivers
+- WLAN host driver and firmware development
+- IEEE 802.11n / 802.11ax / Wi-Fi 6
+- cfg80211 and Linux wireless stack
+- WPA3 and PMF security
+- MAC / PHY / RF firmware
+- RF calibration and Tx gain control
+- Low-power firmware design
+- Camera drivers and MIPI CSI-2
+- ISP and 3A algorithms
+- Cross-functional technical leadership
+
+---
+
+## Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Embedded / Firmware
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-2C3E50?style=for-the-badge)
+![Firmware](https://img.shields.io/badge/Firmware-Development-34495E?style=for-the-badge)
+![ThreadX](https://img.shields.io/badge/RTOS-ThreadX-0078D4?style=for-the-badge)
+![Trace32](https://img.shields.io/badge/Debug-Trace32-0F766E?style=for-the-badge)
+
+### Linux / Drivers
+![Linux](https://img.shields.io/badge/Linux-6.12-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Device Drivers](https://img.shields.io/badge/Device-Drivers-1F2937?style=for-the-badge)
+![cfg80211](https://img.shields.io/badge/Linux-cfg80211-4B5563?style=for-the-badge)
+![wpa_supplicant](https://img.shields.io/badge/wpa__supplicant-2.11-1F6FEB?style=for-the-badge)
+
+### Wireless
+![WLAN](https://img.shields.io/badge/WLAN-802.11n%20%7C%20802.11ax-0A66C2?style=for-the-badge)
+![Wi-Fi Drivers](https://img.shields.io/badge/Wi--Fi-Drivers-0369A1?style=for-the-badge)
+![WPA3](https://img.shields.io/badge/Security-WPA3-7C3AED?style=for-the-badge)
+![PMF](https://img.shields.io/badge/Security-PMF-6D28D9?style=for-the-badge)
+![MAC/PHY/RF](https://img.shields.io/badge/MAC%20%2F%20PHY%20%2F%20RF-Firmware-14532D?style=for-the-badge)
+
+### Imaging
+![Camera Drivers](https://img.shields.io/badge/Camera-Drivers-B45309?style=for-the-badge)
+![MIPI CSI-2](https://img.shields.io/badge/MIPI-CSI--2-C2410C?style=for-the-badge)
+![ISP](https://img.shields.io/badge/ISP-Development-7C2D12?style=for-the-badge)
+![3A Algorithms](https://img.shields.io/badge/3A-Algorithms-9A3412?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Lauterbach](https://img.shields.io/badge/Lauterbach-Trace32-0F766E?style=for-the-badge)
+
+---
+
+## Professional Experience
+
+### Microchip Technology
+**Technical Staff Engineer** | October 2014 – Present
+
+- Technical leadership in WLAN firmware and Linux host driver development across multiple silicon revisions
+- Developed and delivered Linux Wi-Fi features, regulatory domain management, cfg80211 enhancements, and driver integration improvements
+- Worked on WPA3 and PMF feature porting across firmware and Linux driver layers
+- Developed MAC/PHY/RF firmware features from prototype to embedded C implementation, including calibration, Tx gain control, and low-power configurations
+- Drove cross-functional coordination across firmware, RF characterization, and factory teams
+
+### Intel
+**Component Design Engineer** | December 2010 – 2014
+
+- Developed ISP module drivers for gamma correction, histogram, lens shading correction, white balance, exposure, filtering, and noise reduction
+- Worked on auto exposure algorithms and calibration/NVM parameter handling
+- Developed camera drivers with MIPI CSI-2 interface for X-GOLD platforms
+- Contributed to system software development for display, camera, I2C, keypad, and accessory backlight drivers
+
+### Aricent Technologies
+**Senior Engineer** | 2010
+
+### Vayavya Labs
+**Embedded Software Engineer** | 2007 – 2009
+
+- Worked on device driver generator tooling and display driver development
+- Developed display subsystem support including DMA interface and DirectDraw demo applications
+
+---
+
+## Certifications
+
+- Claude Code in Action – AI Assisted Development with Claude
+- Edge AI – Machine Learning at the Edge on Arm Microcontrollers
+- Python Specialization
+- IEEE Certification on WLAN 802.11ax / Wi-Fi 6 MAC Layer
+- IEEE Certification on WLAN 802.11n Protocol
+
+---
+
+## Education
+
+- **MS in Embedded System Design**, Manipal University
+- **BE in Electronics and Communication**, Visvesvaraya Technological University
+
+---
+
+## Interests
+
+- WLAN firmware and Linux wireless stack
+- Embedded security
+- Edge AI for embedded systems
+- Camera and imaging firmware
+- AI-assisted development workflows
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/madhuhegde84
+- Email: madhuhl@gmail.com
+- LinkedIn: add-your-link-here
